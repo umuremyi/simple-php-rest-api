@@ -1,2 +1,9 @@
-# simple-php-rest-api
-A simple RESTful API built with PHP that allows you to create and retrieve user records in memory. Includes endpoints for user creation and lookup, returns JSON responses, and demonstrates basic error handling—ideal for learning or prototyping user management features.
+# Simple REST API in PHP
+
+## Programming Language and Framework
+- Language: PHP
+- Framework: None (vanilla PHP)
+
+## How to Run the API
+1. Save the PHP code in a file named `api.php`.
+2. Run a PHP built-in server from the command line:
